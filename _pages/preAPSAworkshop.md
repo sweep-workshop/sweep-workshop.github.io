@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Time-Sharing Survey and 2025 Mini-Conferences"
+title: "Time-Sharing Survey"
 permalink: /timesharingworkshop/
 author_profile: true
 ---
