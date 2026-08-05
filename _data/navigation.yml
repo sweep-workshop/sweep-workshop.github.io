@@ -6,12 +6,12 @@ main:
 
  # - title: "Writing Group"
  #   url: /writing/    
+
+   - title: "Publications"
+    url: /publications/
  
   - title: "Time-Sharing Survey and Mini-Conference"
     url: /timesharingworkshop/
-
-  - title: "Publications"
-    url: /publications/
     
   - title: "Organizers"
     url: /organizers/  
