@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EEPGW"
+title                    : "SWEEP"
 title_separator          : "-"
-name                     : &name "East European Politics Graduate Workshop"
-description              : &description "We are a workshop for political science graduate students working on East European politics. We meet bi-monthly online, where we host paper workshops and a writing group."
+name                     : &name "Scholars Working on East European Politics"
+description              : &description "We are a political science workshop for East European politics."
 url                      : https://eepg-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eepg-workshop/eepg-workshop.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "EEPGW"
+  name             : "SWEEP"
   avatar           : "kalush.jpeg"
-  bio              : "East European Politics Graduate Workshop"
+  bio              : "Scholars Working on East European Politics"
   location         : "Virtual"
   employer         :
   pubmed           :  
   googlescholar    :  
-  email            :  "eepg.workshop@gmail.com"
+  email            :  "eep.workshop@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "EEPG_Workshop"
+  twitter          : 
+  bluesky:          "sweep-workshop.bsky.social"
   vine             :
   weibo            :
   xing             :
