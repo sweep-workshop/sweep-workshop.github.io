@@ -14,7 +14,7 @@ Many papers presented at SWEEP are now in publication. We're excited to celebrat
 
 **Presented at Spring/Summer 2024 Series** 
 
-Haas, Violeta  Ines, [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), Tarik Abou-Chadi, Heike Klüver, and Lukas Stoetzer. 2025. “The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.” The Journal of Politics. [Publisher version](https://www.journals.uchicago.edu/doi/10.1086/739782)
+Haas, Violeta  Ines, [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), Tarik Abou-Chadi, Heike Klüver, and Lukas Stoetzer. “The Electoral Effects of State-Sponsored Anti-LGBTQ Measures," forthcoming, The Journal of Politics. [Publisher version](https://www.journals.uchicago.edu/doi/10.1086/739782)
 
 
 [Isaksson, Z.](https://sites.google.com/view/zethisaksson/home) (2026). Repression, party ties, and political beliefs: Ideological continuities among voters after socialism. Party Politics, 32(4), 595-610. [Publisher version](https://journals.sagepub.com/doi/epub/10.1177/13540688251350481)
