@@ -7,7 +7,7 @@ main:
  # - title: "Writing Group"
  #   url: /writing/    
 
-   - title: "Publications"
+  - title: "Publications"
     url: /publications/
  
   - title: "Time-Sharing Survey and Mini-Conference"
