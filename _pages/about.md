@@ -23,7 +23,7 @@ You can apply with an abstract here:
 Submission deadline: October 1, 2026, at 11:59 p.m. PT
  
 
-# SWEEP happy hour at APSA 🧹🧹🧹
+# Save the Date! 📆 SWEEP Happy Hour at APSA 🧹🧹🧹
 We would love to bring our community together in person for a happy hour at APSA!
 
 Saturday, September 5, at 6:00 p.m.
