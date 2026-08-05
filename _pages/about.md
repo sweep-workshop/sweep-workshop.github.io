@@ -17,19 +17,26 @@ We welcome scholars at any stage in their career, using any methods, and examini
 # Call for Papers: Fall/Winter 2026 Workshop
 We welcome submissions from scholars at all career stages working on East European politics. Submissions can range from early-stage paper drafts to well-developed manuscripts, and we welcome projects using any methodological approach, including quantitative, qualitative, and mixed methods.
 You can apply with an abstract here:
+
 [https://forms.gle/cddPQi17S853J53UA](https://forms.gle/cddPQi17S853J53UA)
+
 Submission deadline: October 1, 2026, at 11:59 p.m. PT
  
 
 # SWEEP happy hour at APSA 🧹🧹🧹
 We would love to bring our community together in person for a happy hour at APSA!
+
 Saturday, September 5, at 6:00 p.m.
+
 Location: [TBD]
+
 We hope to see everyone there, from graduate students to faculty!
 
 # Promote your APSA panel
 Are you presenting work at APSA that would be of interest to the East European politics community? Please submit your panel information here by August 28, and we will compile and circulate the panels before the conference:
+
 [https://forms.gle/vX52nugaDUpzv3vo9](https://forms.gle/vX52nugaDUpzv3vo9)] 
+
 We hope this will help us learn from one another’s fascinating research and support each other’s work at the conference.
  
 We are super excited about this new chapter and look forward to seeing many of you at APSA in just over a month!
