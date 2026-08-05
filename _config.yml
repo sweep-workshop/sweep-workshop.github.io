@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Scholars Working on East European Politics"
 title_separator          : "-"
-name                     :  &name "(SWEEP)"
+name                     : &name "SWEEP"
 description              : &description "We are a political science workshop for East European politics."
 url                      : https://sweep-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
