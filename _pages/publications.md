@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications from SWEEP
-
-Many papers presented at SWEEP are now published. If your paper presented at the workshop is now in publication, please let us know via email at: [eep.workshop@gmail.com](eep.workshop@gmail.com). 
+Many papers presented at SWEEP are now in publication. We're excited to celebrate these authors and share these works below. If you presented work at the workshop that is now in publication, please let us know via email at: [eep.workshop@gmail.com](eep.workshop@gmail.com). 
 
 
 **Presented at Fall/Winter 2025 Series**
