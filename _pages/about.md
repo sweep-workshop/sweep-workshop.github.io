@@ -86,4 +86,4 @@ SWEEP wholeheartedly condemns Russia’s attacks on Ukraine's sovereignty over t
 
 # Be in touch!
 
-We invite you to sign up for our listserv [by clicking here](https://groups.google.com/g/eep-workshop).
+We invite you to sign up for our listserv [by clicking here](https://groups.google.com/g/sweep-workshop).
