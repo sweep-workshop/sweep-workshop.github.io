@@ -10,8 +10,8 @@ main:
   - title: "Time-Sharing Survey and Mini-Conference"
     url: /timesharingworkshop/
 
-  - title: "Publications"
-   url: /publications/
+    - title: "Publications"
+    url: /publications/
     
   - title: "Organizers"
     url: /organizers/  
