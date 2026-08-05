@@ -5,9 +5,9 @@ permalink: /timesharingworkshop/
 author_profile: true
 ---
 
-The East European Politics Grad Workshop is excited to announce our Fall 2025 Time Sharing Survey Mini-Conferences, hosted by the **Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Mini-Conferences.** and made possible by a 2024-25 APSA Centennial Center Grant. Selected presenters participated in a blinded peer-review selection and spring 2025 survey design workshop in advance of fielding a time sharing survey in two less-commonly studied countries in the region: Estonia and Slovakia.
+In 2025, SWEEP (then, as the East European Politics Grad Workshop) hosted a Time Sharing Survey Mini-Conferences, hosted by the **Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Mini-Conferences.** and made possible by a 2024-25 APSA Centennial Center Grant. Selected presenters participated in a blinded peer-review selection and spring 2025 survey design workshop in advance of fielding a time sharing survey in two less-commonly studied countries in the region: Estonia and Slovakia.
 
-The resulting research will be presented at two online mini-conferences in Fall 2025. The first is on Friday, October 10 and the second will be on Friday, December 5; both from 11am-1pm ET. For links and materials please sign up using our mailing list below.
+The resulting research was presented at two online mini-conferences in Fall 2025. The first was on Friday, October 10 and the second was Friday, December 5; both from 11am-1pm ET. 
 
 # Friday October 10 11AM-1PM EST
 ## Time Sharing Survey Mini Conference #1: Estonia 
@@ -33,4 +33,4 @@ Discussant: [Lotem Halevy (Cluster of Excellence, the Politics of Inequality, at
 
 
 # Statement on Russia's War Against Ukraine
-The EEPGW wholeheartedly condemns Russia’s attacks on Ukraine's sovereignty over the last ten years and its recent full-scale invasion of Ukraine. We stand in support of Ukraine and its people as they fight in support of their country and freedom. For more information on the war, and how to support the Ukrainian war effort, refugees, and media, we include resources compiled by [Harvard Ukrainian Research Institute](https://huri.harvard.edu/russia-ukraine-war) and [Razom for Ukraine](https://www.razomforukraine.org/).
+SWEEP wholeheartedly condemns Russia’s attacks on Ukraine's sovereignty over the last ten years and its recent full-scale invasion of Ukraine. We stand in support of Ukraine and its people as they fight in support of their country and freedom. For more information on the war, and how to support the Ukrainian war effort, refugees, and media, we include resources compiled by [Harvard Ukrainian Research Institute](https://huri.harvard.edu/russia-ukraine-war) and [Razom for Ukraine](https://www.razomforukraine.org/).
