@@ -35,7 +35,7 @@ We hope to see everyone there, from graduate students to faculty!
 # Promote your APSA panel
 Are you presenting work at APSA that would be of interest to the East European politics community? Please submit your panel information here by August 28, and we will compile and circulate the panels before the conference:
 
-[https://forms.gle/vX52nugaDUpzv3vo9](https://forms.gle/vX52nugaDUpzv3vo9)] 
+[https://forms.gle/vX52nugaDUpzv3vo9](https://forms.gle/vX52nugaDUpzv3vo9)
 
 We hope this will help us learn from one another’s fascinating research and support each other’s work at the conference.
  
