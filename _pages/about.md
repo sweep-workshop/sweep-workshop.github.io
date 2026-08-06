@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! The Scholars Working on East European Politics is a monthly, online workshop for political scientists. We aim to create an environment for those working on East European politics (broadly understood) to seek feedback and build community amongst others working on similar topics.
+Welcome! Scholars Working on East European Politics is a monthly, online workshop for political scientists. We aim to create an environment for those working on East European politics (broadly understood) to seek feedback and build community amongst others working on similar topics.
 
 SWEEP began as an online workshop for graduate students working on East European politics. We are now broadening the community to include scholars at all career stages, though remain committed to supporting and prioritizing graduate student research. We look forward to being better able to connect grads with researchers at all stages in our new form. 
 
