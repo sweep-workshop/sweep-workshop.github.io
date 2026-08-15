@@ -28,7 +28,7 @@ We would love to bring our community together in person for a happy hour at APSA
 
 Saturday, September 5, at 6:00 p.m.
 
-Location: Nightshift Brewing, Boston Esplanade; *[Directions](https://maps.app.goo.gl/N6Lw2T85fBCcLX6NA)*
+Location: [Nightshift Brewing, Boston Esplanade](https://maps.app.goo.gl/N6Lw2T85fBCcLX6NA)
 
 We hope to see everyone there, from graduate students to faculty!
 
