@@ -74,13 +74,6 @@ Discussant: [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
 Discussant: [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
 
 
-## Friday August 21st 11-12 AM EST
-“Surviving the Commons: Land Tenure, Extraction, and Revolution,” [Igor Kolesnikov (UC Berkeley)](https://polisci.berkeley.edu/people/person/igorkolesnikov)
-
-Discussant: [Frances Cayton (Cornell University)](https://www.francescayton.com/)
- 
-
-
 # Statement on Russia's War Against Ukraine
 SWEEP wholeheartedly condemns Russia’s attacks on Ukraine's sovereignty over the last ten years and its recent full-scale invasion of Ukraine. We stand in support of Ukraine and its people as they fight in support of their country and freedom. For more information on the war, and how to support the Ukrainian war effort, refugees, and media, we include resources compiled by [Harvard Ukrainian Research Institute](https://huri.harvard.edu/russia-ukraine-war) and [Razom for Ukraine](https://www.razomforukraine.org/).
 
