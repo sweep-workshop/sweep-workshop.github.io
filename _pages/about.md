@@ -35,9 +35,9 @@ We hope to see everyone there, from graduate students to faculty!
 # SWEEP at APSA
 Many members of our community are presenting new research at the American Political Science Association Annual Meeting coming up in Boston September 3-6. You can find these panels [here](https://docs.google.com/spreadsheets/d/1e8su_dtBUM6GEqxlwO73y2WcsgWYocA8/edit?usp=sharing&ouid=103059167803679734421&rtpof=true&sd=true). 
 
-Have a panel you'd like to share? Please add details via this form before September 2, and we'll be glad to add it to our list. 
+Have a panel you'd like to share? Please add details via [this form](https://forms.gle/zmBSHPfEgKFyFssA9) before September 2, and we'll be glad to add it to our list. 
 
-We hope this will help us learn from one another’s fascinating research and support each other’s work at the conference.
+We're looking forward to learning from another’s fascinating research and support each other’s work at the conference.
 
 # Current Series: Spring/Summer 2026 Workshop
 
