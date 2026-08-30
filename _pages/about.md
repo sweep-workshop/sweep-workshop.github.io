@@ -32,14 +32,12 @@ Location: [Nightshift Brewing, Boston Esplanade](https://maps.app.goo.gl/N6Lw2T8
 
 We hope to see everyone there, from graduate students to faculty!
 
-# Promote your APSA panel
-Are you presenting work at APSA that would be of interest to the East European politics community? Please submit your panel information here by August 28, and we will compile and circulate the panels before the conference:
+# SWEEP at APSA
+Many members of our community are presenting new research at the American Political Science Association Annual Meeting coming up in Boston September 3-6. You can find these panels [here](https://docs.google.com/spreadsheets/d/1e8su_dtBUM6GEqxlwO73y2WcsgWYocA8/edit?usp=sharing&ouid=103059167803679734421&rtpof=true&sd=true). 
 
-[https://forms.gle/vX52nugaDUpzv3vo9](https://forms.gle/vX52nugaDUpzv3vo9)
+Have a panel you'd like to share? Please add details via this form before September 2, and we'll be glad to add it to our list. 
 
 We hope this will help us learn from one another’s fascinating research and support each other’s work at the conference.
- 
-We are super excited about this new chapter and look forward to seeing many of you at APSA in just over a month!
 
 # Current Series: Spring/Summer 2026 Workshop
 
