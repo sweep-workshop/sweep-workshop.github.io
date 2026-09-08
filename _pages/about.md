@@ -22,55 +22,10 @@ You can apply with an abstract here:
 
 Submission deadline: October 1, 2026, at 11:59 p.m. PT
  
-
-# Save the Date! 📆 SWEEP Happy Hour at APSA 🧹🧹🧹
-We would love to bring our community together in person for a happy hour at APSA!
-
-Saturday, September 5, at 6:00 p.m.
-
-Location: [Nightshift Brewing, Boston Esplanade](https://maps.app.goo.gl/N6Lw2T85fBCcLX6NA)
-
-We hope to see everyone there, from graduate students to faculty!
-
 # SWEEP at APSA
-Many members of our community are presenting new research at the American Political Science Association Annual Meeting coming up in Boston September 3-6. You can find these panels [here](https://docs.google.com/spreadsheets/d/1e8su_dtBUM6GEqxlwO73y2WcsgWYocA8/edit?usp=sharing&ouid=103059167803679734421&rtpof=true&sd=true). 
+Many members of our community presented new research at the American Political Science Association Annual Meeting in Boston. You can find these panels [here](https://docs.google.com/spreadsheets/d/1e8su_dtBUM6GEqxlwO73y2WcsgWYocA8/edit?usp=sharing&ouid=103059167803679734421&rtpof=true&sd=true). 
 
-Have a panel you'd like to share? Please add details via [this form](https://forms.gle/zmBSHPfEgKFyFssA9) before September 2, and we'll be glad to add it to our list. 
-
-We're looking forward to learning from another’s fascinating research and support each other’s work at the conference.
-
-# Current Series: Spring/Summer 2026 Workshop
-
-## Friday April 17th 11AM-12PM EST
-“Decentralization and Ukrainian Resistance Against Russia's Invasion,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
-
-Discussant: [Silviya Nitsova (University of Manchester)](https://www.snitsova.com/)
-
-
-## Friday May 8th 11AM-12PM EST
-“When Does Civil Society Respond to Government Threats?,” [Frances Cayton (Cornell University)](https://www.francescayton.com/)
-
-Discussant: [Will Halm (Berkeley)](https://polisci.berkeley.edu/people/person/william-halm)
-
-
-## Friday May 29th 11-12 AM EST
-“Ethnic identity, citizenship, and public support for NATO in Estonia,  2019–2024,” [Yurii Kondratyk (European University Institute)](https://www.eui.eu/people?id=yurii-kondratyk) and [Piret Ehin (University of Tartu)](https://ut.ee/en/employee/piret-ehin)
-
-Discussant: [Robert Lipinski (Oxford)](https://roberlipinski.mobirisesite.com/)
-
-
-## Friday June 26th 11-12 AM EST
-“A Tale of Two Villages: Political Causes and Consequences of Within-Rural Inequality,” [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
-
-Discussant: [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
-
-
-## Friday August 14th 11-12 AM EST
-
-“Do Wartime Casualties Affect Support for the Autocrat? Evidence from Russia,” [Konstantin Bogatyrev (LSE)](https://www.lse.ac.uk/government/people/academic-staff/konstantin-bogatyrev), [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/), [Andrey Tkachenko (Nazarbayev University)](https://research.nu.edu.kz/en/persons/andrey-tkachenko/), [Nikita Savin (UCLA)](https://polisci.ucla.edu/person/nikita-savin/)
-
-Discussant: [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
-
+We also enjoyed gathering our community in person at a happy hour at Nightshift Brewing on Saturday, September 5 at 6:00 p.m.
 
 # Statement on Russia's War Against Ukraine
 SWEEP wholeheartedly condemns Russia’s attacks on Ukraine's sovereignty over the last ten years and its recent full-scale invasion of Ukraine. We stand in support of Ukraine and its people as they fight in support of their country and freedom. For more information on the war, and how to support the Ukrainian war effort, refugees, and media, we include resources compiled by [Harvard Ukrainian Research Institute](https://huri.harvard.edu/russia-ukraine-war) and [Razom for Ukraine](https://www.razomforukraine.org/).
