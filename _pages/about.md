@@ -14,13 +14,45 @@ SWEEP began as an online workshop for graduate students working on East European
 
 We welcome scholars at any stage in their career, using any methods, and examining East European politics in anywhere from Central Europe to Central Asia. Feel free to reach out to us at [eep.workshop@gmail.com](mailto:eep.workshop@gmail.com) with further questions.
 
-# Call for Papers: Fall/Winter 2026 Workshop
-We welcome submissions from scholars at all career stages working on East European politics. Submissions can range from early-stage paper drafts to well-developed manuscripts, and we welcome projects using any methodological approach, including quantitative, qualitative, and mixed methods.
-You can apply with an abstract here:
+# Fall/Winter 2026 Workshop Workshop Schedule
 
-[https://forms.gle/cddPQi17S853J53UA](https://forms.gle/cddPQi17S853J53UA)
+## Friday, November 20 
+### “Careers in the Crossfire: How Internal Defection Reshapes a Secret Police Organization” 
+**Authors:** [Krzysztof Krakowski (CUNEF)](https://krzyskrakowski.github.io), [Henry Thomson (Arizona State)](https://www.henrythomson.com)
 
-Submission deadline: October 1, 2026, at 11:59 p.m. PT
+
+**Discussants:** [Ludwig Schulze (SciencesPo)](https://ludwigschulze.github.io/ludwig-schulze/); [Frances Cayton (Stanford)](https://www.francescayton.com)
+
+## Friday, December 11
+### “Transparency Defanged: How Autocrats Enforce Freedom of Information” 
+**Author:** [Evgeniia Mitrokhina (UW-Madison)](https://polisci.wisc.edu/staff/mitrokhina-evgeniia/)
+
+**Discussants:** [Maria Popova (McGill)](https://www.popovaprof.ca); [Konstantin Bogatyrev (LSE)](https://sites.google.com/view/konstantin-bogatyrev/)
+
+## Friday, January 15
+### “Transitional Justice and Post-Conflict State Capacity” 
+**Authors:** [Monika Nalepa (UChicago)](https://www.monikanalepa.com) and [Simone Paci (Stanford)](https://www.simonepaci.com)
+
+**Discussants:** [Cameron Mailhot (Arizona)](https://cameronrmailhot.weebly.com); [Paula Pickering (William & Mary](https://sites.google.com/view/paulampickering/home)
+
+## Friday, February 5
+### “Building Fascism: How Consensual Mobilisation Created Persistent Far-Right Legacies in Romania”
+**Authors:** [Vlad Surdea-Hernea (Central European University)](https://vladsurdea.com)
+
+**Discussants:** [Isabelle DeSisto (Princeton)](https://isabelledesisto.com); [Dani Sandu (Fribourg)](https://danisandu.eu)
+
+## Friday, February 26
+### “The Limits of Antipopulist Governance: Lessons from Czechia and Poland” 
+**Author:** [Petra Guasti (Charles University)](https://ips.fsv.cuni.cz/en/contacts/institute-members/95770000)
+
+**Discussants:** [Milada Vachudova (UNC-Chapel Hill)](https://politicalscience.unc.edu/staff/milada-vachudova/); [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+
+## Friday, March 12 
+### “War, Oligarchs, and the Conditional Legitimacy of Property Rights” 
+**Author:** [Silviya Nitsova (University of Manchester)](https://www.snitsova.com)
+
+**Discussants:** [Jordan Gans-Morse (Northwestern)](https://sites.northwestern.edu/jgansmorse/), [Hanna Folsz (Harvard)](https://hannafolsz.com)
+
  
 # SWEEP at APSA
 Many members of our community presented new research at the American Political Science Association Annual Meeting in Boston. You can find these panels [here](https://docs.google.com/spreadsheets/d/1e8su_dtBUM6GEqxlwO73y2WcsgWYocA8/edit?usp=sharing&ouid=103059167803679734421&rtpof=true&sd=true). 
