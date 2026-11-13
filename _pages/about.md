@@ -14,7 +14,7 @@ SWEEP began as an online workshop for graduate students working on East European
 
 We welcome scholars at any stage in their career, using any methods, and examining East European politics in anywhere from Central Europe to Central Asia. Feel free to reach out to us at [eep.workshop@gmail.com](mailto:eep.workshop@gmail.com) with further questions.
 
-# Fall/Winter 2026 Workshop Workshop Schedule
+# Fall/Winter 2026 Workshop Schedule
 
 ## Friday, November 20 
 ### “Careers in the Crossfire: How Internal Defection Reshapes a Secret Police Organization” 
