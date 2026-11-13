@@ -7,6 +7,47 @@ author_profile: true
 
 SWEEP is held one Friday a month between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). The format is a paper presentation. After a brief presentation of the paper by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Participants will be expected to read the paper ahead of the meeting.  Please [register for our listserv](https://groups.google.com/g/sweep-workshop) to recieve the Zoom link and paper for each workshop.
 
+
+# Fall/Winter 2026 Workshop Schedule
+
+## Friday, November 20 
+### “Careers in the Crossfire: How Internal Defection Reshapes a Secret Police Organization” 
+**Authors:** [Krzysztof Krakowski (CUNEF)](https://krzyskrakowski.github.io), [Henry Thomson (Arizona State)](https://www.henrythomson.com)
+
+
+**Discussants:** [Ludwig Schulze (SciencesPo)](https://ludwigschulze.github.io/ludwig-schulze/); [Frances Cayton (Stanford)](https://www.francescayton.com)
+
+## Friday, December 11
+### “Transparency Defanged: How Autocrats Enforce Freedom of Information” 
+**Author:** [Evgeniia Mitrokhina (UW-Madison)](https://polisci.wisc.edu/staff/mitrokhina-evgeniia/)
+
+**Discussants:** [Maria Popova (McGill)](https://www.popovaprof.ca); [Konstantin Bogatyrev (LSE)](https://sites.google.com/view/konstantin-bogatyrev/)
+
+## Friday, January 15
+### “Transitional Justice and Post-Conflict State Capacity” 
+**Authors:** [Monika Nalepa (UChicago)](https://www.monikanalepa.com) and [Simone Paci (Stanford)](https://www.simonepaci.com)
+
+**Discussants:** [Cameron Mailhot (Arizona)](https://cameronrmailhot.weebly.com); [Paula Pickering (William & Mary](https://sites.google.com/view/paulampickering/home)
+
+## Friday, February 5
+### “Building Fascism: How Consensual Mobilisation Created Persistent Far-Right Legacies in Romania”
+**Authors:** [Vlad Surdea-Hernea (Central European University)](https://vladsurdea.com)
+
+**Discussants:** [Isabelle DeSisto (Princeton)](https://isabelledesisto.com); [Dani Sandu (Fribourg)](https://danisandu.eu)
+
+## Friday, February 26
+### “The Limits of Antipopulist Governance: Lessons from Czechia and Poland” 
+**Author:** [Petra Guasti (Charles University)](https://ips.fsv.cuni.cz/en/contacts/institute-members/95770000)
+
+**Discussants:** [Milada Vachudova (UNC-Chapel Hill)](https://politicalscience.unc.edu/staff/milada-vachudova/); [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+
+## Friday, March 12 
+### “War, Oligarchs, and the Conditional Legitimacy of Property Rights” 
+**Author:** [Silviya Nitsova (University of Manchester)](https://www.snitsova.com)
+
+**Discussants:** [Jordan Gans-Morse (Northwestern)](https://sites.northwestern.edu/jgansmorse/), [Hanna Folsz (Harvard)](https://hannafolsz.com)
+
+
 # Previous Series: Spring/Summer 2026 Workshop
 
 ## Friday April 17th 11AM-12PM EST
